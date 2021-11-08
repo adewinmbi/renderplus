@@ -1,5 +1,5 @@
 /*
-Shader stuff:
+Shader Notes:
 
 Better to define shaders in files so you don't need to write it as a string
 Using GLSLv330 (OpenGL shading language); core means it won't let us use deprecated functions
