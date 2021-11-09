@@ -1,7 +1,5 @@
 # RenderPlus
 
-## About
-
 RenderPlus is a simple rendering engine using the OpenGL standard and C++. It was created to gain a deeper understanding of graphics programming, past the use of a game engine like Unity.
 
 ## Steps to Run
