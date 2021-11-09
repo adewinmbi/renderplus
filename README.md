@@ -7,7 +7,7 @@ RenderPlus is a simple rendering engine using the OpenGL standard and C++. It wa
 With Visual Studio 2019:
 1. Select "Open a project or solution"
 2. Open the solution file at `renderplus\OpenGL\Rendering Engine.sln`
-3. Navigate to src/main.cpp
+3. Navigate to `src/main.cpp`
 4. Click "Local Windows Debugger" or F5
 
 ## Functionality
